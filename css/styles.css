@@ -1,0 +1,18 @@
+.flashy {
+  color: red;
+  font-weight: bold;
+}
+
+.best {
+  font-weight: bold;
+  font-style: italic;
+}
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
